@@ -1,3 +1,9 @@
+###  .NET Core support
+
+Add .NET Core support.
+I have not full tested it, but I will fix the bug in the feature.
+Hope it can help you.
+
 
 vCard Class Library for .NET (Version 0.4; LGPL license)
 Copyright (c) 2007-2009 David Pinch * http://www.thoughtproject.com/Libraries/vCard/
